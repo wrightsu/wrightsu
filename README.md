@@ -5,6 +5,6 @@
   <li>👩‍💻 Data Nerd</li>
   <li>🏕️ Outdoors Enthusiast</li>
   <li> ♿ Accessibility Advocate </li>
-  <li>🥾 Search & Rescue Team Member</li>
   <li>💼 Nonprofit Executive Director</li> 
+  <li>🥾 Search & Rescue Team Member</li>
   </ul>
